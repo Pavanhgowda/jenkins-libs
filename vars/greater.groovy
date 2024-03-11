@@ -1,4 +1,4 @@
-def compareNumber(a, b) {
+def call(a, b) {
     if (a > b) {
         println "The number ${a} is greater than ${b}"
     }
